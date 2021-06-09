@@ -10,5 +10,5 @@ phases:
       - echo Build Completed Successfully
 artifacts:
   files:
-    - target/rating-data-service-aws-pipeline.jar
+    - rating-data-service-aws-pipeline.jar
   discard-paths: yes
